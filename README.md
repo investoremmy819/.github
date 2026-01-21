@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Emmanuel
 
-Blockchain developer focused on building on Base and .
+Blockchain developer focused on building on Base and EVM networks.
 
 ## 🔹 About Me
 
